@@ -21,6 +21,7 @@
     "sourceApiVersion": "54.0",
     "packageAliases": {
         "SFDX_Ex": "0Ho7Q0000008OTmSAM",
-        "SFDX_Issue": "0Ho7Q0000008OTrSAM"
+        "SFDX_Issue": "0Ho7Q0000008OTrSAM",
+        "SFDX_Ex@0.1.0-1-dxqa": "04t7Q000000cw30QAA"
     }
 }
