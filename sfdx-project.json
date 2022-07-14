@@ -20,7 +20,7 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "54.0",
     "packageAliases": {
-        "SFDX_Ex": "a0Ho7Q0000008OTmSAM",
-        "SFDX_Issue": "a0Ho7Q0000008OTrSAM"
+        "SFDX_Ex": "a057Q0000031KwfQAE",
+        "SFDX_Issue": "0Ho7Q0000008OTrSAM"
     }
 }
