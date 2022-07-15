@@ -7,8 +7,7 @@
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
         },
-       
-    ],
+       ],
     "name": "SFDX_NEW",
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
