@@ -6,13 +6,6 @@
             "package": "SFDX_Ex",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
-        },
-        {
-            "path": "force-app",
-            "package": "SFDX_Issue",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "default": false
         }
     ],
     "name": "SFDX_NEW",
