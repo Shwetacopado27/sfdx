@@ -1,23 +1,23 @@
 {
-    "packageDirectories": [
-        {
-            "path": "force-app",
-            "default": true,
-            "package": "SFDX_Ex",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT"
-        }
-    ],
-    "name": "SFDX_NEW",
-    "namespace": "",
-    "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "54.0",
-    "packageAliases": {
-        "SFDX_Ex": "0Ho7Q0000008OTmSAM",
-        "SFDX_Issue": "0Ho7Q0000008OTrSAM",
-        "SFDX_Ex@0.1.0-1-dxqa": "04t7Q000000cw30QAA",
-        "SFDX_Ex@0.1.0-2-dxqa": "04t7Q000000cwBQQAY",
-        "SFDX_Ex@0.1.0-3-dxqa": "04t7Q000000cwFsQAI",
-        "SFDX_Ex@0.1.0-4-dxqa": "04t7Q000000cwK5QAI"
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "SFDX_Ex",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT"
     }
+  ],
+  "name": "SFDX_NEW",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "57.0",
+  "packageAliases": {
+    "SFDX_Ex": "0Ho7Q0000008OTmSAM",
+    "SFDX_Issue": "0Ho7Q0000008OTrSAM",
+    "SFDX_Ex@0.1.0-1-dxqa": "04t7Q000000cw30QAA",
+    "SFDX_Ex@0.1.0-2-dxqa": "04t7Q000000cwBQQAY",
+    "SFDX_Ex@0.1.0-3-dxqa": "04t7Q000000cwFsQAI",
+    "SFDX_Ex@0.1.0-4-dxqa": "04t7Q000000cwK5QAI"
+  }
 }
