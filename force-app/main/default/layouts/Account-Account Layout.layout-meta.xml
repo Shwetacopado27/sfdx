@@ -34,10 +34,6 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Shweta_DX__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
                 <field>azuredemo__c</field>
             </layoutItems>
             <layoutItems>
