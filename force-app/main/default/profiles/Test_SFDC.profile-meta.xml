@@ -7326,11 +7326,6 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>true</editable>
-        <field>Account.Shweta_DX__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
         <editable>false</editable>
         <field>Account.Sic</field>
         <readable>false</readable>
@@ -21296,6 +21291,10 @@
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
+        <name>AccessToComplaintMgmt</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>false</enabled>
         <name>AccessToServiceProcess</name>
     </userPermissions>
     <userPermissions>
@@ -21439,12 +21438,28 @@
         <name>CanInsertFeedSystemFields</name>
     </userPermissions>
     <userPermissions>
+        <enabled>false</enabled>
+        <name>CanUpdateEmailMessage</name>
+    </userPermissions>
+    <userPermissions>
         <enabled>true</enabled>
         <name>CanUseNewDashboardBuilder</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
         <name>CanVerifyComment</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>false</enabled>
+        <name>CdcReportingCreateReports</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>false</enabled>
+        <name>CdcReportingManageFolders</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>false</enabled>
+        <name>CdcReportingViewReports</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -21901,6 +21916,10 @@
     <userPermissions>
         <enabled>false</enabled>
         <name>ManageExternalConnections</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>false</enabled>
+        <name>ManageForecastingCustomData</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
