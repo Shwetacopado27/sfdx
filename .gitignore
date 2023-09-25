@@ -6,6 +6,7 @@
 
 **/installedPackages/*
 **/Copado/*
+**/cmcSf/*
 
 # Excluded Managed Package - Copado
 **/classes/copado__*
