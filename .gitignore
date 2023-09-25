@@ -4,6 +4,10 @@
 # Still allows customization, but doesn't track unchangeable files
 # Add all installed managed packages to this list
 
+**/installedPackages/*
+**/Copado__/*
+**/cmcSf__/*
+
 # Excluded Managed Package - Copado
 **/classes/copado__*
 **/triggers/copado__*
