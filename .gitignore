@@ -5,8 +5,8 @@
 # Add all installed managed packages to this list
 
 **/installedPackages/*
-**/Copado/*
-**/cmcSf/*
+**/Copado__/*
+**/cmcSf__/*
 
 # Excluded Managed Package - Copado
 **/classes/copado__*
