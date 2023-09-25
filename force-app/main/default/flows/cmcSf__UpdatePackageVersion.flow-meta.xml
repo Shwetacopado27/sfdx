@@ -3,5 +3,9 @@
     <apiVersion>53.0</apiVersion>
     <description>Flow to update package version</description>
     <label>Update Package Version</label>
+    <processMetadataValues>
+        <name>AssociatedRecord</name>
+        <value/>
+    </processMetadataValues>
     <processType>AutoLaunchedFlow</processType>
 </Flow>
