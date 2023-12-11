@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Layout xmlns="http://soap.sforce.com/2006/04/metadata">
-    <excludeButtons>DataDotComCompanyHierarchy</excludeButtons>
+    <excludeButtons>DataDotComAccountInsights</excludeButtons>
+    <excludeButtons>DataDotComClean</excludeButtons>
     <excludeButtons>DisableCustomerPortalAccount</excludeButtons>
     <excludeButtons>DisablePartnerPortalAccount</excludeButtons>
     <excludeButtons>IncludeOffline</excludeButtons>
@@ -30,19 +31,35 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Hotfix_trial__c</field>
+                <field>AnnualRevenue</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Readonly</behavior>
+                <field>Count__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>azuredemo__c</field>
+                <field>Total_Number__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>TestAzu__c</field>
+                <field>TotalOpp__c</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Required</behavior>
+                <behavior>Edit</behavior>
+                <field>Total_Opportunity_Amount__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Client_Contact__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
                 <field>external_Id__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Copado_Test1__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
@@ -152,6 +169,11 @@
     <platformActionList>
         <actionListContext>Record</actionListContext>
         <platformActionListItems>
+            <actionName>LogACall</actionName>
+            <actionType>QuickAction</actionType>
+            <sortOrder>2</sortOrder>
+        </platformActionListItems>
+        <platformActionListItems>
             <actionName>Edit</actionName>
             <actionType>StandardButton</actionType>
             <sortOrder>0</sortOrder>
@@ -160,11 +182,6 @@
             <actionName>Delete</actionName>
             <actionType>StandardButton</actionType>
             <sortOrder>1</sortOrder>
-        </platformActionListItems>
-        <platformActionListItems>
-            <actionName>LogACall</actionName>
-            <actionType>QuickAction</actionType>
-            <sortOrder>2</sortOrder>
         </platformActionListItems>
         <platformActionListItems>
             <actionName>NewTask</actionName>
@@ -215,18 +232,6 @@
             <quickActionName>FeedItem.PollPost</quickActionName>
         </quickActionListItems>
     </quickActionList>
-    <relatedContent>
-        <relatedContentItems>
-            <layoutItem>
-                <component>wits:newsPanel</component>
-            </layoutItem>
-        </relatedContentItems>
-        <relatedContentItems>
-            <layoutItem>
-                <component>runtime_sales_social:socialPanel</component>
-            </layoutItem>
-        </relatedContentItems>
-    </relatedContent>
     <relatedLists>
         <fields>OPPORTUNITY.NAME</fields>
         <fields>OPPORTUNITY.STAGE_NAME</fields>
