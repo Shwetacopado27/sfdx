@@ -3,10 +3,11 @@
     <documentContentSearchEnabled>true</documentContentSearchEnabled>
     <enableAdvancedSearchInAlohaSidebar>false</enableAdvancedSearchInAlohaSidebar>
     <enableEinsteinSearchAssistantDialog>true</enableEinsteinSearchAssistantDialog>
-    <enableEinsteinSearchEs4kPilot>false</enableEinsteinSearchEs4kPilot>
+    <enableEinsteinSearchEs4kPilot>true</enableEinsteinSearchEs4kPilot>
     <enableEinsteinSearchNLSFilters>false</enableEinsteinSearchNLSFilters>
     <enableEinsteinSearchNaturalLanguage>true</enableEinsteinSearchNaturalLanguage>
     <enableEinsteinSearchPersonalization>true</enableEinsteinSearchPersonalization>
+    <enableEinsteinSearchQA>false</enableEinsteinSearchQA>
     <enablePersonalTagging>false</enablePersonalTagging>
     <enablePublicTagging>false</enablePublicTagging>
     <enableQuerySuggestionPigOn>false</enableQuerySuggestionPigOn>
