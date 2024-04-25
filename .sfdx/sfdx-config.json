@@ -1,4 +1,5 @@
 {
   "defaultdevhubusername": "shwetacopado@force.com",
-  "instanceUrl": "https://shwetacopa--dxdev1.sandbox.my.salesforce.com"
+  "instanceUrl": "https://shwetacopa--dxdev1.sandbox.my.salesforce.com",
+  "apiVersion": "57.0"
 }
