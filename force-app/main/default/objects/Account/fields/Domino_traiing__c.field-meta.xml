@@ -2,6 +2,7 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Domino_traiing__c</fullName>
     <defaultValue>false</defaultValue>
+    <description>Let&apos;s have change in UAT directly and give the demo.</description>
     <externalId>false</externalId>
     <label>Domino_traiing</label>
     <trackFeedHistory>false</trackFeedHistory>
