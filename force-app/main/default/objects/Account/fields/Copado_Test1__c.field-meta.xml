@@ -2,7 +2,7 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Copado_Test1__c</fullName>
     <defaultValue>false</defaultValue>
-    <description>change in production directly.</description>
+    <description>change in production directly -----</description>
     <externalId>false</externalId>
     <label>Copado_Test1</label>
     <trackFeedHistory>false</trackFeedHistory>
