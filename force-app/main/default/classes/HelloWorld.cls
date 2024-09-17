@@ -8,15 +8,6 @@ return 'Hello World188';
 //Sample Class233
 //Sample Class3
 //Sample class4
-//sample class 5
-//sample 123
-//sample 456 
-//sample a
-//sample b
-//complete
-//incoplete
-//ssss
-//lllll
-//aaaaa
-}//in progress
+//sample
+}
 }
