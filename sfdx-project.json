@@ -11,7 +11,7 @@
   "name": "SFDX_NEW",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "60.0",
+  "sourceApiVersion": "61.0",
   "packageAliases": {
     "SFDX_Ex": "0Ho7Q0000008OTmSAM",
     "SFDX_Issue": "0Ho7Q0000008OTrSAM"
