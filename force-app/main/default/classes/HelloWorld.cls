@@ -1,11 +1,8 @@
-//hello world
 global class HelloWorld {
 public String hello() {
-return 'Hello World188';
+return 'Hello World 127';
 //Sample Class
-//shweta class
-//Sample Class1
-//Sample Class233
+//Sample Class12
 //Sample Class3
 }
 }
